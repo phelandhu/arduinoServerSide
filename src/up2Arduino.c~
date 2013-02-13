@@ -16,7 +16,6 @@
 #include <signal.h>
 #include <pthread.h>
 #include <sys/stat.h>
-#include "readConfig.h"
 
 #ifdef _WIN32
 #include <Windows.h>
